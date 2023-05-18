@@ -278,7 +278,6 @@ def rcrack1(uid,pwx,tl):
                 print(f"\x1b[38;5;196m[RAYHAN-CP❌] {uid}|{ps}")
                 open('/sdcard/RAYHAN-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(uid)
-         FACEBOOKreak
             else:
                 continue
         loop+=1
